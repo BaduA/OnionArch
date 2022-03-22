@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ETicaretAPI",
+      "appliesTo": "ETicaretAPI/Core/ETicaretAPI.Application/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-ETicaretAPI",
+      "appliesTo": "ETicaretAPI/Core/ETicaretAPI.Domain/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-ETicaretAPI",
+      "appliesTo": "ETicaretAPI/Core/ETicaretAPI.Application/",
+      "type": "launch"
+    }
+  ]
+}

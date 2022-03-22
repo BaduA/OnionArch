@@ -1,0 +1,12 @@
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\bin\Debug\net6.0\ETicaretApi.Persistance.deps.json
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\bin\Debug\net6.0\ETicaretApi.Persistance.dll
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\bin\Debug\net6.0\ETicaretApi.Persistance.pdb
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\ETicaretApi.Persistance.csproj.AssemblyReference.cache
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\ETicaretApi.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\ETicaretApi.Persistance.AssemblyInfoInputs.cache
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\ETicaretApi.Persistance.AssemblyInfo.cs
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\ETicaretApi.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\ETicaretApi.Persistance.dll
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\refint\ETicaretApi.Persistance.dll
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\ETicaretApi.Persistance.pdb
+C:\Users\batua\Desktop\Coding\ETicaretUygulamasi\ETicaretAPI\Infastructure\ETicaretApi.Persistance\obj\Debug\net6.0\ref\ETicaretApi.Persistance.dll
